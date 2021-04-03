@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "SM02B-SHLS-TF"
+    ],
+    "datasheet": [
+        false,
+        "http://www.jst-mfg.com/product/pdf/eng/eNSH.pdf"
+    ],
+    "description": [
+        false,
+        "1.0mm pitch/Disconnectable Crimp style connectors"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "JST"
+    ],
+    "model": "093c338e-8811-4720-9d43-8ef2dec87b4f",
+    "orderable_MPNs": {
+        "7642d9c2-4fe1-4b32-8a63-9874553ee490": "455-3957-1-ND",
+        "7c606f67-c8a7-4a05-80c3-da633a862b82": "455-3957-2-ND",
+        "969e875e-f448-4d2e-b168-e21a21758a03": "455-3957-6-ND"
+    },
+    "package": "a7eeb8f9-1d35-44e7-b989-910d750083f3",
+    "pad_map": {
+        "374f383e-e9fa-40ed-baf2-b6628b9bf56c": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "c3d0d34b-970d-4628-806f-6ea436733710": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "header",
+        "jst"
+    ],
+    "type": "part",
+    "uuid": "18d24480-1ade-471a-a8d7-98ce2b61d077",
+    "value": [
+        false,
+        ""
+    ]
+}
