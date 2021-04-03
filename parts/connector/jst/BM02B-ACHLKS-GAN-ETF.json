@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "BM02B-ACHLKS-GAN-ETF"
+    ],
+    "datasheet": [
+        false,
+        "https://www.jst-mfg.com/product/pdf/eng/eACHL.pdf"
+    ],
+    "description": [
+        false,
+        "1.2mm pitch Disconnectable Crimp Style connector"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "JST"
+    ],
+    "model": "093c338e-8811-4720-9d43-8ef2dec87b4f",
+    "orderable_MPNs": {
+        "119bf7bd-bb69-496a-9f7e-5bf173a50e8e": "455-2896-6-ND",
+        "7fb086c3-a228-4330-9af6-a59855a5b8a5": "455-2896-2-ND",
+        "c887f144-ee37-4046-8cc5-f8e850ced4ec": "455-2896-1-ND"
+    },
+    "package": "cac2ce04-e70d-4af8-86d3-384cb28f8c78",
+    "pad_map": {
+        "374f383e-e9fa-40ed-baf2-b6628b9bf56c": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "c3d0d34b-970d-4628-806f-6ea436733710": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "jst"
+    ],
+    "type": "part",
+    "uuid": "a6f17148-567f-4186-afb0-518ea8b94cf8",
+    "value": [
+        false,
+        ""
+    ]
+}
