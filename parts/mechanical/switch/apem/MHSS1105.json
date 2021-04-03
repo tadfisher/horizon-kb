@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "MHSS1105"
+    ],
+    "datasheet": [
+        false,
+        "https://www.apem.com/us/index.php?controller=attachment&id_attachment=916"
+    ],
+    "description": [
+        false,
+        "Slide Switch SPDT, Through Hole, Right Angle"
+    ],
+    "entity": "665912a3-a9ab-4aed-8d2e-3a1cd8258a3a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "APEM Inc."
+    ],
+    "model": "c41db1cb-49e9-4247-b12e-2b6538b699df",
+    "orderable_MPNs": {
+        "4230580f-2194-47f0-a007-f0c38bf417a5": "679-1849-ND"
+    },
+    "package": "85cc200b-498d-446a-b873-b4819023da11",
+    "pad_map": {
+        "39050f52-7c34-4f4f-86d2-7d63e3c74338": {
+            "gate": "b5bb32f1-c623-4665-bfe7-e6900b207cc5",
+            "pin": "05c7f6fc-9e0a-475a-8b47-a3e2c6ccf2c2"
+        },
+        "692e0db6-a82e-44b5-98cd-be0a74c69fc9": {
+            "gate": "b5bb32f1-c623-4665-bfe7-e6900b207cc5",
+            "pin": "c2a018b0-e297-4675-aa04-72e8ac67696b"
+        },
+        "a4271424-d7db-4405-ae9e-220350e096f3": {
+            "gate": "b5bb32f1-c623-4665-bfe7-e6900b207cc5",
+            "pin": "54dc7e67-936b-4f96-836b-e15ab4bec2a5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "slide",
+        "spdt",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "ee72687e-ca7f-4641-ad40-e8196baad8c1",
+    "value": [
+        false,
+        ""
+    ]
+}

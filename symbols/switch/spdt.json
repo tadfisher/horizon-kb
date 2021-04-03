@@ -1,0 +1,206 @@
+{
+    "arcs": {
+        "136e9de1-aec6-4ce8-86c8-656f630c3154": {
+            "center": "89e660b2-ee30-4595-9b19-73eacc5a5751",
+            "from": "473ade18-a270-46a2-8c4a-c9079241e42e",
+            "layer": 0,
+            "to": "891bae83-c973-4f2e-84a7-3ad432d715c1",
+            "width": 0
+        },
+        "2b5ff505-1720-41bd-afaa-4854d7f88fc6": {
+            "center": "a46c075e-0421-4b62-88cd-beb8461a384c",
+            "from": "7dc75931-cc49-46a4-b737-af5b2fdfc6bc",
+            "layer": 0,
+            "to": "47f74e99-8c7f-44fa-aaaf-4f65f64a4ff7",
+            "width": 0
+        },
+        "37d82240-8d2b-4fd9-9ce0-73efda64e46f": {
+            "center": "a46c075e-0421-4b62-88cd-beb8461a384c",
+            "from": "47f74e99-8c7f-44fa-aaaf-4f65f64a4ff7",
+            "layer": 0,
+            "to": "7dc75931-cc49-46a4-b737-af5b2fdfc6bc",
+            "width": 0
+        },
+        "62dbdcfb-5abf-47a8-9fdb-414b29b23d2a": {
+            "center": "59e556a9-48dc-43ec-a085-6a6d13fcd278",
+            "from": "cdcf2235-cc23-45f9-90cd-527db38a5663",
+            "layer": 0,
+            "to": "b6c0aad4-7a76-41aa-96ca-f5f46fceb49f",
+            "width": 0
+        },
+        "baf5502d-1171-43b8-a92f-dc11a2d6732e": {
+            "center": "59e556a9-48dc-43ec-a085-6a6d13fcd278",
+            "from": "b6c0aad4-7a76-41aa-96ca-f5f46fceb49f",
+            "layer": 0,
+            "to": "cdcf2235-cc23-45f9-90cd-527db38a5663",
+            "width": 0
+        },
+        "d7d51b5c-03d9-4bbd-aa39-37724a7a05ad": {
+            "center": "89e660b2-ee30-4595-9b19-73eacc5a5751",
+            "from": "891bae83-c973-4f2e-84a7-3ad432d715c1",
+            "layer": 0,
+            "to": "473ade18-a270-46a2-8c4a-c9079241e42e",
+            "width": 0
+        }
+    },
+    "can_expand": false,
+    "junctions": {
+        "473ade18-a270-46a2-8c4a-c9079241e42e": {
+            "position": [
+                1470970,
+                2720970
+            ]
+        },
+        "47f74e99-8c7f-44fa-aaaf-4f65f64a4ff7": {
+            "position": [
+                -1470970,
+                -220970
+            ]
+        },
+        "59e556a9-48dc-43ec-a085-6a6d13fcd278": {
+            "position": [
+                1250000,
+                -2500000
+            ]
+        },
+        "7dc75931-cc49-46a4-b737-af5b2fdfc6bc": {
+            "position": [
+                -1029030,
+                220970
+            ]
+        },
+        "891bae83-c973-4f2e-84a7-3ad432d715c1": {
+            "position": [
+                1029030,
+                2279030
+            ]
+        },
+        "89e660b2-ee30-4595-9b19-73eacc5a5751": {
+            "position": [
+                1250000,
+                2500000
+            ]
+        },
+        "a46c075e-0421-4b62-88cd-beb8461a384c": {
+            "position": [
+                -1250000,
+                0
+            ]
+        },
+        "b6c0aad4-7a76-41aa-96ca-f5f46fceb49f": {
+            "position": [
+                1562500,
+                -2500000
+            ]
+        },
+        "cdcf2235-cc23-45f9-90cd-527db38a5663": {
+            "position": [
+                937500,
+                -2500000
+            ]
+        }
+    },
+    "lines": {
+        "51a02597-760c-483d-a296-748fe7892151": {
+            "from": "7dc75931-cc49-46a4-b737-af5b2fdfc6bc",
+            "layer": 0,
+            "to": "891bae83-c973-4f2e-84a7-3ad432d715c1",
+            "width": 0
+        }
+    },
+    "name": "SPDT switch",
+    "pins": {
+        "05c7f6fc-9e0a-475a-8b47-a3e2c6ccf2c2": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2200000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                3750000,
+                2500000
+            ]
+        },
+        "54dc7e67-936b-4f96-836b-e15ab4bec2a5": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2200000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -3750000,
+                0
+            ]
+        },
+        "c2a018b0-e297-4675-aa04-72e8ac67696b": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2200000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                3750000,
+                -2500000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "35c67b6f-8092-4fb8-b7c5-f3e16fbf704e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    -5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "46928448-0593-43cc-88a6-d239b8df5b5e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "63ffcb20-bff4-49cd-9ad7-dca8acccf160",
+    "uuid": "e2e46bce-3454-48ef-aacb-01be1fe1a40c"
+}
