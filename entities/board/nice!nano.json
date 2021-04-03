@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "86a3eb71-b1d6-4a3d-94bd-f1f6445d5034": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b9294ed0-ff16-43ca-bd60-a10a27432a08"
+        }
+    },
+    "manufacturer": "",
+    "name": "nice!nano",
+    "prefix": "U",
+    "tags": [
+        "board"
+    ],
+    "type": "entity",
+    "uuid": "f9ac688e-efa0-4b23-912a-9cc494d403f5"
+}
