@@ -1,6 +1,6 @@
 {
     "default_via": "00000000-0000-0000-0000-000000000000",
-    "name": "nyx",
+    "name": "horizon-kb",
     "pools_included": [
         "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
     ],
